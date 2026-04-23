@@ -1,0 +1,6 @@
+{
+  "name": "WealthTrack",
+  "description": "A comprehensive expense tracker with real-time updates, detailed spending visualizations, and secure user authentication.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
